@@ -1,5 +1,5 @@
 # Expanding-Upon-Host-Client-Topology
-Inspired from the [Byzantine Problem](https://en.wikipedia.org/wiki/Byzantine_fault), my addition to the Host-Client Topology creates a solution for how developers can protect data integrity of games. This solution is beneficial to developers since it reduces networking costs drastically for games that can utilize this approach over server-client topologies.
+Inspired from the [Byzantine Problem](https://en.wikipedia.org/wiki/Byzantine_fault), my addition to the Host-Client Topology creates a solution for how developers can protect data integrity of games. The approach to handling data is similar to the Byzantine General's problem, where a majority vote is used to determine what is correct. The majority state that clients broadcast will be distributed. 
 
 Here is a video demo:
 
